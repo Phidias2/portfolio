@@ -108,13 +108,13 @@ export default {
 						id: 1,
 						name: 'Twitter',
 						icon: 'twitter',
-						url: 'https://twitter.com/PhidiasGbaguidi',
+						url: 'https://twitter.com/',
 					},
 					{
 						id: 2,
 						name: 'Instagram',
 						icon: 'instagram',
-						url: 'https://instagram.com/PhidiasGbaguidi',
+						url: 'https://instagram.com/',
 					},
 					{
 						id: 3,
@@ -126,14 +126,8 @@ export default {
 						id: 4,
 						name: 'LinkedIn',
 						icon: 'linkedin',
-						url: 'https://www.linkedin.com/in/phidiasgbaguidi',
-					},
-					{
-						id: 5,
-						name: 'Youtube',
-						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
-					},
+						url: 'https://www.linkedin.com/in/',
+					}
 				],
 			},
 			relatedProject: {
@@ -141,22 +135,22 @@ export default {
 				relatedProjects: [
 					{
 						id: 1,
-						title: 'Mobile UI',
+						title: 'Big data',
 						img: require('@/assets/images/mobile-project-1.jpg'),
 					},
 					{
 						id: 2,
-						title: 'Web Application',
+						title: 'Analyse de sentiment',
 						img: require('@/assets/images/web-project-1.jpg'),
 					},
 					{
 						id: 3,
-						title: 'UI Design',
+						title: 'Data exploratory:',
 						img: require('@/assets/images/ui-project-2.jpg'),
 					},
 					{
 						id: 4,
-						title: 'Kabul Mobile App UI',
+						title: 'MY-SHOP',
 						img: require('@/assets/images/mobile-project-2.jpg'),
 					},
 				],

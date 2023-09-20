@@ -18,12 +18,12 @@ export default {
 				},
 				{
 					id: 2,
-					name: 'phidias.gbaguidi@epitech.eu',
+					name: 'elodie.yedomonha@epitech.eu',
 					icon: 'mail',
 				},
 				{
 					id: 3,
-					name: '+229 68852425',
+					name: '+229 67923338',
 					icon: 'phone',
 				},
 			],

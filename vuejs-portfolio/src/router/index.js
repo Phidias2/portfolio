@@ -7,7 +7,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: 'Phidias - Home',
+			title: 'ELODIE - Home',
 		},
 	},
 	{
@@ -19,7 +19,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "about" */ '../views/About.vue'),
 		meta: {
-			title: 'Phidias - About',
+			title: 'Elodie - About',
 		},
 	},
 	{
@@ -31,7 +31,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "projects" */ '../views/Projects.vue'),
 		meta: {
-			title: 'Phidias - Projects',
+			title: 'Elodie - Projects',
 		},
 	},
 	{
@@ -45,7 +45,7 @@ const routes = [
 				/* webpackChunkName: "projects" */ '../views/SingleProject.vue'
 			),
 		meta: {
-			title: 'Phidias - Single Project',
+			title: 'Elodie - Single Project',
 		},
 	},
 	{
@@ -57,7 +57,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "projects" */ '../views/Contact.vue'),
 		meta: {
-			title: 'Phidias - Contact',
+			title: 'Elodie - Contact',
 		},
 	},
 ];
@@ -74,7 +74,7 @@ export default router;
 
 /**
  * Below code will display the component/active page title
- * Powered by: Nangialai Phidias
+ * Powered by: Elodie
  */
 
 // This callback runs before every route change, including on page load.
