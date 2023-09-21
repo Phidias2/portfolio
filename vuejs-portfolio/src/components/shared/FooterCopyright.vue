@@ -4,7 +4,7 @@ export default {
 		return {
 			copyrightDate: new Date().getFullYear(),
 			projectName: 'My Portfolio',
-			author: 'Elodie YEDOMONHA',
+			author: 'Elodie YEDOMONHAN',
 		};
 	},
 };
